@@ -1,5 +1,3 @@
-# app/executors/runner.py
-
 import traceback
 from app.core.security import es_codigo_seguro
 

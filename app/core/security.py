@@ -1,4 +1,3 @@
-
 def es_codigo_seguro(codigo):
     """
     Analiza el código generado para evitar la ejecución de comandos maliciosos
